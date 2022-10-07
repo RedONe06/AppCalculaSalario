@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppCalculaSalario</string>
+    <string name="txtTitulo">Digite seu salário:</string>
+    <string name="txtTitulo2">Qual o seu percentual?</string>
+    <string name="radioQuarenta">40%</string>
+    <string name="radioQuarentaECinco">45%</string>
+    <string name="radioCinquenta">50%</string>
+    <string name="btnSalario">Calcular novo salário</string>
+</resources>
